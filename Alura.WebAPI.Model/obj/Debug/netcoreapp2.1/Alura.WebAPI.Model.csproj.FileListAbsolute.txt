@@ -1,0 +1,10 @@
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Renan\source\repos\APIs_Rest_Asp.NET_Core\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb

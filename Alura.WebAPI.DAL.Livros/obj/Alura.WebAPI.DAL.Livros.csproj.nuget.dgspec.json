@@ -14,7 +14,8 @@
         "outputPath": "C:\\Users\\Renan\\source\\repos\\APIs_Rest_Asp.NET_Core\\Alura.WebAPI.DAL.Livros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"
+          "D:\\Program Files\\Microsoft\\VisualStudio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,7 +88,8 @@
         "outputPath": "C:\\Users\\Renan\\source\\repos\\APIs_Rest_Asp.NET_Core\\Alura.WebAPI.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"
+          "D:\\Program Files\\Microsoft\\VisualStudio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
